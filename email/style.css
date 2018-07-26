@@ -1,0 +1,19 @@
+
+/* 
+    Created on : Sep 20, 2017, 12:55:01 PM
+    Author     : PC3,
+    Donate: krishnarathor.com or  (paypal)https://www.paypal.me/GajanandRathor
+    Email: questions@krishnarthor.com
+*/
+
+.attachment-form{
+    width: 45%;
+    margin: 20px auto;
+}
+
+
+.attachment-form input, textarea{
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
